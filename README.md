@@ -1,1 +1,1 @@
-https://github.com/tumffa/ohtuvarasto/workflows/CI/badge.svg
+https://github.com/tumffa/ohtuvarasto/actions/workflows/CI/badge.svg
