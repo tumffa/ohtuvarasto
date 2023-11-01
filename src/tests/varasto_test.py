@@ -61,4 +61,4 @@ class TestVarasto(unittest.TestCase):
 
     def test_str_toimii(self):
         #tila=10 ja saldo=0 eli tulostus on seuraava
-        self.assertEqual(self.varasto.__str__(), "saldo = 0, vielä tilaa")
+        self.assertEqual(self.varasto.__str__(), "saldo = 0, vielä tilaa 10")
