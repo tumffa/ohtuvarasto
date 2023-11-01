@@ -1,1 +1,3 @@
-https://github.com/tumffa/ohtuvarasto/actions/workflows/CI/badge.svg
+#ohtuvarasto
+
+! [GHA workflow badge](https://github.com/tumffa/ohtuvarasto/workflows/CI/badge.svg)
